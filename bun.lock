@@ -5,13 +5,13 @@
     "": {
       "name": "vr-web",
       "dependencies": {
-        "@types/three": "latest",
-        "astro": "latest",
-        "three": "latest",
+        "@types/three": "^0.184.1",
+        "astro": "^6.3.1",
+        "three": "^0.184.0",
       },
       "devDependencies": {
-        "oxlint": "latest",
-        "oxlint-tsgolint": "latest",
+        "oxlint": "^1.63.0",
+        "oxlint-tsgolint": "^0.22.1",
       },
     },
   },
